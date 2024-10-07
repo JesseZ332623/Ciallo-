@@ -22,5 +22,4 @@ git clone https://github.com/JesseZ332623/Ciallo-.git
 
 ## Latest Update: 2024.10.07
 
-## LICENCE: [MIT LICENCE]()
-
+## LICENCE: [MIT LICENCE](https://github.com/JesseZ332623/Ciallo-/blob/main/LICENSE)
