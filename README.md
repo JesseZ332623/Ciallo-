@@ -3,7 +3,7 @@
 使用 SDL 和 FMT 库模仿 [https://ciallo.cc/] 网站的动画效果，软件运行如下：
 
 <video width="820" height="460" controls>
-  <source src="./material/video/Ciallo-Software-Demo.mp4" type="video/mp4">
+  <source src="https://github.com/JesseZ332623/Ciallo-/raw/main/material/video/Ciallo-Software-Demo.mp4" type="video/mp4">
 </video>
 
 ## 软件运行
