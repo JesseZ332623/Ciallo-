@@ -2,7 +2,7 @@
 
 使用 SDL 和 FMT 库模仿 [https://ciallo.cc/] 网站的动画效果，软件运行如下：
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lnl1-cXjDFM/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lnl1-cXjDFM/0.jpg)](https://www.youtube.com/watch?v=lnl1-cXjDFM)
 
 ## 软件运行
 
