@@ -4,9 +4,13 @@
 
 <video width="820" height="460" controls>
 
-  <source src="https://www.example.com/path/to/video.mp4" type="video/mp4">
+  <source src="./material/video/Ciallo Software Demo.mp4" type="video/mp4">
 
 </video>
+
+## 软件运行
+
+克隆本仓库，在 `bin` 目录下找到 `Ciallo~.exe` 运行即可
 
 ## Latest Update: 2024.10.07
 
