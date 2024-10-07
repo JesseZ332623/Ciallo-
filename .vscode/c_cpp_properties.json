@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "F:\\SDL\\SDL2\\include",
+                "F:\\SDL\\SDL2_image\\include",
+                "F:\\SDL\\SDL2_mixer\\include",
+                "F:\\fmt\\include\\fmt",
+                "F:\\pcg-c-basic\\include",
+                "F:\\SDL\\SDL2_net\\include",
+                "F:\\SDL\\SDL2_ttf\\include",
+                "F:\\pcg-c-basic\\include",
+                "F:\\SDL\\SDL2_net\\include",
+                "F:\\SDL\\SDL_gfx\\include",
+                "F:\\libsndfile-1.2.2-win64\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Program Files\\msys64\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}

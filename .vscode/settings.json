@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "\"*.exe\"": "\"executable\"",
+        "*.tcc": "cpp",
+        "fstream": "cpp"
+    }
+}
