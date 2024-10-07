@@ -134,12 +134,6 @@ void CialloAnimation::mouseEventBehavior(void)
     (mouseButtonMap.find(MouseKeyCode)->second)                     \
 )
 
-/**
-  * @brief 鼠标位置限制，
-  *        确保鼠标位置在纹理大小范围内时才进行相应操作。
-*/
-#define MOUSEPOS_ASTRACT ((mousePos <= textureBorderRight) && (mousePos >= textureBorderLeft))
-
     const SDL_Point & mousePos                           = this->events.getMousePosition();
     const EventsControl::MouseButtonMap & mouseButtonMap = this->events.getMouseState();
 
@@ -148,6 +142,12 @@ void CialloAnimation::mouseEventBehavior(void)
  *        现在看来直接跟随鼠标位置更好。
 */
 #if false
+/**
+  * @brief 鼠标位置限制，
+  *        确保鼠标位置在纹理大小范围内时才进行相应操作。
+*/
+#define MOUSEPOS_ASTRACT ((mousePos <= textureBorderRight) && (mousePos >= textureBorderLeft))
+
     static SDL_Point textureBorderLeft  = {this->animationRenderRect.x, this->animationRenderRect.y};
     static SDL_Point textureBorderRight = {
         this->animationRenderRect.x + this->cialloAnimation.getAnimationInfo()->w,
